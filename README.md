@@ -32,3 +32,7 @@ Dataset berisi informasi mengenai penerbangan domestik, dengan fitur utama sebag
 - **Pandas** : Manipulasi data
 - **Matplotlib / Seaborn** : Visualisasi data
 - **Jupyter Notebook** : Dokumentasi dan eksekusi analisis
+
+## Sumber Data
+
+[Domestic Flight](https://www.kaggle.com/code/rohitgrewal/airlines-flights-data-analysis-with-python-dsl/notebook)
